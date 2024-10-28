@@ -1,3 +1,7 @@
+//https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Stack.html
+//https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/LinkedList.html
+
+
 import java.util.Scanner;
 import java.util.Stack;
 
@@ -47,3 +51,4 @@ public class Practical {
         scanner.close();
     }
 }
+
